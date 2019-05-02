@@ -1,3 +1,5 @@
+package practice;
+
 public class Main {
 
     static int fact(int i){

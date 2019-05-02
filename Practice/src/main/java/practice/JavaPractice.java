@@ -1,3 +1,4 @@
+package practice;
 
 class Practice {
     public String what = "Something";
